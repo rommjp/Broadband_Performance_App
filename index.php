@@ -55,25 +55,11 @@ $html_display="
 
 
     <!-- Le styles -->
-    <link href="static/css/bootstrap.css" rel="stylesheet">
-    <link href="static/css/site.css" rel="stylesheet">
-    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
-    <script type="text/javascript" src="static/js/jquery.js"></script>
-	<script type="text/javascript" src="static/js/es5-shim.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<script src="https://code.highcharts.com/highcharts.js"></script>
 	<script src="https://code.highcharts.com/modules/exporting.js"></script>
 	<script src="https://code.highcharts.com/modules/export-data.js"></script>
 	<script src="https://code.highcharts.com/modules/accessibility.js"></script>	
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]> <script src="static/js/html5shiv.js"></script> <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="static/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="static/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="static/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="static/ico/apple-touch-icon-57-precomposed.png">
-    <link rel="shortcut icon" href="static/ico/favicon.png">
 
 
 
