@@ -24,7 +24,7 @@ $metric_dropdown="
 			<option value='packet_loss'>packet_loss</option>
 		</select>";
 		
-$state_dropdown="
+$month_dropdown="
 		<select id='month_id'>
 			<option value='Feb2020'>Feb2020</option>
 			<option value='Nov2019'>Nov2019</option>
@@ -43,7 +43,7 @@ $html_display="
 
       <h1>Internet Broadband Performance</h1><br>
 		Metric: {$metric_dropdown}
-		State: {$state_dropdown}
+		Month: {$month_dropdown}
 		<button id='filter_id' type='button' enabled>Refresh Display</button>
 </div>		
 ";
