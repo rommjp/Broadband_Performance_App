@@ -7,8 +7,8 @@ Used to query a mongo database to retrieve the data in form of documents.
 Data is encoded to JSON and sent client side to display in the web app in highcharts graph.
 ************************/
 
-$month = isset($_POST['month'])? $_POST['month']: "";
-$metric = isset($_POST['metric'])? $_POST['metric']: "";
+$month = isset($_GET['month'])? $_GET['month']: "";
+$metric = isset($_GET['metric'])? $_GET['metric']: "";
 
 $state_mapping=array('Feb2020'=>array('Feb2020'),
 'Nov2019'=>array('Nov2019'),

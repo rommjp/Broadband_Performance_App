@@ -88,7 +88,7 @@ $(document).ready(function() {
 		console.log($(this));
 
 		$.ajax({
-			type: 'POST',
+			type: 'GET',
 			url: 'getDropDowndata2.php',
 			data: input_data,
 			dataType: 'json',
