@@ -3,7 +3,7 @@
 
 Final Project for FIT5147.
 
-Creating a web application visualizing NBN Fixed Line Broad Performance
+Creating a web application visualizing NBN Fixed Line Broadband Performance
 
 Author: Rommel Poggenberg
 Submitted: 20/04/2020
